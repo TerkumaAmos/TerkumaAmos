@@ -7,7 +7,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-Update your README.md: Edit your README.md file to include the icons. You can use Markdown to add images.
+[![Twitter](https://path_to_your_image/twitter.![Uploading image.png…]()
+)](https://twitter.com/@TerkumaAmos)
   
 
 <!---
