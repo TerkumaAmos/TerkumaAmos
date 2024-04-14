@@ -7,9 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-[![Twitter](https://path_to_your_image/twitter.![Uploading image.png…]()
-)](https://twitter.com/@TerkumaAmos)
-  
+
 
 <!---
 TerkumaAmos/TerkumaAmos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
