@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 <br>
 <h2 align="left">🔥Statistics</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imisi99&show_icons=true&locale=en&layout=compact" alt="imisi99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TerkumaAmos&show_icons=true&locale=en&layout=compact" alt="TerkumaAmos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imisi99&show_icons=true&locale=en" alt="imisi99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TerkumaAmos&show_icons=true&locale=en" alt="TerkumaAmos" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imisi99&" alt="imisi99" /></p> -->
