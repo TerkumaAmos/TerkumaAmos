@@ -23,8 +23,8 @@
 
 <h3 align="left">✨Languages and Tools:</h3>
 <p align="left">
-<!--     <img src="HTML.svg" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="CSS.svg" alt="CSS" width="40" height="40"/>&nbsp; -->
+    <img src="HTML.svg" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="CSS.svg" alt="CSS" width="40" height="40"/>&nbsp;
 <!--     <img src="JavaScript.svg" alt="Javascript" width="40" height="40"/>&nbsp;
     <img src="assets/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="assets/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="40" height="40"/>&nbsp;
@@ -44,11 +44,11 @@
 <!--     <img src="Netlify-Dark.svg" alt="Netlify" width="40" height="40"/>&nbsp; -->
 <!--     <img src="assets/icons/Vercel-Dark.svg" alt="Vercel" width="40" height="40"/>&nbsp; -->
 <!--     <img src="assets/icons/Photoshop.svg" alt="Photoshop" width="40" height="40"/>&nbsp; -->
-<!--     <img src="assets/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>&nbsp; -->
-    <img src="Python-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="assets/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>&nbsp;
+<!--     <img src="Python-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
     <img src="FastAPI.svg" alt="Python" width="40" height="40"/>&nbsp;
     <img src="Linux-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="Flask-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="Flask-Dark.svg" alt="Python" width="40" height="40"/>&nbsp; -->
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ay7ot&show_icons=true&locale=en&layout=compact" alt="ay7ot" /></p> -->
