@@ -41,13 +41,12 @@
     <img src="VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
     <img src="Github-Dark.svg" alt="Github" width="40" height="40"/>&nbsp;
     <img src="Git.svg" alt="Git" width="40" height="40"/>&nbsp;
-        <img src="download(1).png" alt="dart" width="40" height="40"/>&nbsp;
+        <img src="download (1).png" alt="dart" width="40" height="40"/>&nbsp;
     <img src="download.png" alt="flutter" width="40" height="40"/>&nbsp;
 
 <!--     <img src="Netlify-Dark.svg" alt="Netlify" width="40" height="40"/>&nbsp; -->
 <!--     <img src="assets/icons/Vercel-Dark.svg" alt="Vercel" width="40" height="40"/>&nbsp; -->
 <!--     <img src="assets/icons/Photoshop.svg" alt="Photoshop" width="40" height="40"/>&nbsp; -->
-    <img src="assets/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>&nbsp;
 <!--     <img src="Python-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
     <img src="FastAPI.svg" alt="Python" width="40" height="40"/>&nbsp;
     <img src="Linux-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
