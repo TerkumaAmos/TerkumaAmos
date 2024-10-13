@@ -24,7 +24,7 @@
 <h3 align="left">✨Languages and Tools:</h3>
 <p align="left">
     <img src="HTML.svg" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="CSS.svg" alt="CSS" width="40" height="40"/>&nbsp;
+<!--     <img src="CSS.svg" alt="CSS" width="40" height="40"/>&nbsp; -->
 <!--     <img src="JavaScript.svg" alt="Javascript" width="40" height="40"/>&nbsp;
     <img src="assets/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="assets/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="40" height="40"/>&nbsp;
@@ -41,6 +41,9 @@
     <img src="VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
     <img src="Github-Dark.svg" alt="Github" width="40" height="40"/>&nbsp;
     <img src="Git.svg" alt="Git" width="40" height="40"/>&nbsp;
+        <img src="download(1).png" alt="dart" width="40" height="40"/>&nbsp;
+    <img src="download.png" alt="flutter" width="40" height="40"/>&nbsp;
+
 <!--     <img src="Netlify-Dark.svg" alt="Netlify" width="40" height="40"/>&nbsp; -->
 <!--     <img src="assets/icons/Vercel-Dark.svg" alt="Vercel" width="40" height="40"/>&nbsp; -->
 <!--     <img src="assets/icons/Photoshop.svg" alt="Photoshop" width="40" height="40"/>&nbsp; -->
