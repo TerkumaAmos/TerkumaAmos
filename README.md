@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm AGBER TERKUMA AMOS 👋</h1>
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
-- 🔭 I’m currently working on a [Designs](https://github.com/TerkumaAmos/Dice)
+- 🔭 I’m currently working on [Designs](https://github.com/TerkumaAmos/Dice)
 - 🌱 I’m currently learning Dart And Flutter 🎯 
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: **<agberterkuma2020@gmail.com>**
